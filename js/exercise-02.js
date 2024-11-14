@@ -5,3 +5,12 @@
     
     Repeat the above steps but try using a const variable. Comment this new part of code and explain what is happening.
 */
+
+// 1.
+let animalSound;
+
+// 2. 
+animalSound = "Moo!";
+
+// 3.
+console.log(animalSound);
