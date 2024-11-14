@@ -17,7 +17,7 @@ It is the data that is stored directly in a variable. When we assign a value to 
 string: Hello whats your name
 number: 4
 bigint: 5000000000000000000000000000000000000000000
-boolean: 50.32
+boolean: true or false
 undefined: the value of variable is not defined
 symbol: that's guaranteed to be unique
 null: the value does not contain data

@@ -23,3 +23,10 @@ const myNull = null;
 
 // Undefined
 const myUndefined = undefined;
+
+
+console.log({ myString });
+console.log({ myNumber });
+console.log({ myBoolean });
+console.log({ myNull });
+console.log({ myUndefined });

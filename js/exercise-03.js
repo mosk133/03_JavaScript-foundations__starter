@@ -6,11 +6,8 @@
 
 // 1.
 function getTypeOf(value) {
-    if (value === null) {
-        return "null";
+        return typeof value;
     }
-    return typeof value;
-}
 
 // 2.
 console.log(getTypeOf("Hello"));
