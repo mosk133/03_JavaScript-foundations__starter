@@ -7,24 +7,5 @@
       Log 'name' value.
     5. On the next line, call function 'updateValue' value '28'
       Log 'name' value.
+
 */
-
-// 1.
-let name = "Guillem";
-
-// 2.
-function updateValue(value) {
-  name = value;
-}
-
-// 3.
-updateValue("Michael Jackson");
-console.log(name);
-
-// 4.
-updateValue(true);
-console.log(name);
-
-// 5.
-updateValue(28);
-console.log(name);
